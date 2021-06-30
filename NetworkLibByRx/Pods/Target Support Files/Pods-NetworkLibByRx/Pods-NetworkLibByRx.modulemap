@@ -1,0 +1,6 @@
+framework module Pods_NetworkLibByRx {
+  umbrella header "Pods-NetworkLibByRx-umbrella.h"
+
+  export *
+  module * { export * }
+}

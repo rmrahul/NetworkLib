@@ -1,0 +1,6 @@
+framework module Pods_NetworkLibByNative {
+  umbrella header "Pods-NetworkLibByNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
